@@ -1,0 +1,10 @@
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\bin\Debug\Exercise_Log.exe.config
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\bin\Debug\Exercise_Log.exe
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\bin\Debug\Exercise_Log.pdb
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.csprojAssemblyReference.cache
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.Form1.resources
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.Properties.Resources.resources
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.csproj.GenerateResource.cache
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.csproj.CoreCompileInputs.cache
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.exe
+C:\Users\ngeor\source\repos\Exercise_Log\Exercise_Log\obj\Debug\Exercise_Log.pdb
